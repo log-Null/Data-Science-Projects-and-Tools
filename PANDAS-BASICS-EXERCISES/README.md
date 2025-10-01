@@ -23,11 +23,7 @@ This Jupyter Notebook demonstrates key **Pandas DataFrame operations** including
   - Filtering rows based on conditions
 
 ### 3. Apps DataFrame
-- Work with a dataset of popular apps.
-- Operations include:
-  - Adding a column indicating whether the app is downloaded
   - Sorting apps by rating
-  - Renaming columns for clarity
 
 ---
 
