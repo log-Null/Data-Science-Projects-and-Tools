@@ -91,7 +91,7 @@ Slicing is where we can access parts of a sequence with name[start:end].
 2D arrays have 1D arrays as elements.
 
 # This notebook serves as a hands-on guide for beginner -learning essential numpy operations and basic data manipulation techniques in Python. 
-# Resources : (Numpy by Codedex)[https://www.codedex.io/numpy]
+# Resources : [Numpy by Codedex](https://www.codedex.io/numpy)
 
 
 
