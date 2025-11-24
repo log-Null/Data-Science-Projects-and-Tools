@@ -1,6 +1,6 @@
 # Pandas & DataFrames – Notebook Overview
 
-This Jupyter Notebook demonstrates key **Pandas DataFrame operations** including creating, manipulating, and analyzing data, which I did as part of Codedex learning.
+This Jupyter Notebook demonstrates key **Pandas DataFrame operations** including creating, manipulating, and analyzing data, which I did as part of Codedex learning. .
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9652e33c-1046-43e2-a4ef-38f3e77b459f" />
 
 
